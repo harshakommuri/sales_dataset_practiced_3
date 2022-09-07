@@ -1,0 +1,2 @@
+# sales_dataset_practiced_3
+This is 3rd dataset which we had used to practice for iNueron data analysis course. with this dataset we learned how to create a schema/columns of table automatically with python cmd's. and we also inserted all the data automatically. we practiced some functions, how to set in safe mode when sql gives some errors while using functions, how to update and alter the table, using of IF CONDATION and summations etc. 
